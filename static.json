@@ -8,7 +8,7 @@
     "version": "1.0.0",
     "attributes": {
       "content": {
-        "title": "Modern Research Data Portal",
+        "title": "Greg's Nifty Data Portal",
         "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
         "terms_of_service": "This is an example terms of service – you should replace this with your own terms."
       },
@@ -17,8 +17,8 @@
           "client_id": "a2c043d3-5604-45c7-8b47-d506452c6ad3"
       },
         "transfer": {
-          "collection_id": "6c54cade-bde5-45c1-bdea-f4bd71dba2cc",
-          "path": "/home/share/godata/"
+          "collection_id": "af7bda53-6d04-11e5-ba46-22000b92c6ec",
+          "path": "/home/nawrocki/GlobusSlides/slideDownload/GlobusWorldTourORNL/"
         }
       }
     }
